@@ -1,0 +1,35 @@
+			div#blok1 
+			{
+				background-color: 00ff00; 
+				width:624px;
+			}
+
+			div#blok2 
+			{
+				background-color: 00ff00;
+				width:624px;
+			}
+
+			div#blok3 
+			{
+				background-color: 00ff00; 
+				width:624px;
+			}
+
+			div#blok1:hover 
+			{
+				background-color: silver;
+				font-size: 2cm;
+			}
+
+			div#blok2:hover 
+			{
+				background-color: yellow;
+				font-size: 2cm;
+			}
+
+			div#blok3:hover 
+			{
+				background-color: 30d5c8;
+				font-size: 2cm;
+			}

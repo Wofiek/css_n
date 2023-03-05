@@ -1,0 +1,60 @@
+﻿/*DOCTYPE css*/
+/*11.05.2022_Szulist*/
+p
+{
+color: red;
+font-size: 22pt;
+}
+p#gruby_Szulist
+{
+  color: green;
+  font-size: 10pt;
+  font-weight: bold;
+}
+#dlawszystkich_Szulist
+{
+  color: yellow;
+  font-size: 10pt;
+  font-family: Arial;
+}
+<!DOCTYPE html>
+<html lang="pl-PL">
+<html>
+  <head>
+    <meta charset="UTF-8">
+  <LINK href="Szul_z22.css" rel="stylesheet" type="text/CSS">
+</head>
+<body>
+<p>Szulist-PROCESOR – sekwencyjne urządzenie cyfrowe, 
+które pobiera dane z pamięci operacyjnej,
+interpretuje je i wykonuje jako rozkazy.</p>
+<p>Szulist-DYSK TWARDY – Dysk twardy to sprzęt używany do przechowywania cyfrowej zawartości i danych na komputerze.</p>
+<p>Szulist-PAMIĘĆ RAM – to pamięć komputera, 
+która przechowuje informacje potrzebne do działania programu. 
+Pamięć o dostępie swobodnym to magazyn danych, 
+który umożliwia dostęp do przechowywanych danych w dowolnej — tzn. swobodnej — kolejności, 
+a nie w określonym porządku.</p>
+<p>Szulist-BIOS – BIOS to zbiór programów i procedur odpowiedzialnych za diagnostyke konfiguracje 
+podstawowych parametróww systemu i uruchamianie systemu operacyjnego</p>
+<p id="gruby_Szulist">Szulist-BIT – najmniejsza ilość informacji potrzebna do określenia, 
+który z dwóch równie prawdopodobnych stanów przyjął układ.</p>
+<p id="gruby_Szulist">Szulist-BAJT – ciąg ośmiu bitów. 
+Umożliwia zapisanie znaku, np. litery alfabetu, cyfry.</p>
+<p id="gruby_Szulist">Szulist-MONITOR – gólna nazwa jednego z urządzeń wyjścia do bezpośredniej komunikacji użytkownika z komputerem. </p>
+<p id="gruby_Szulist">Szulist-CZCIONKA – rodzaj nośnika pojedynczych znaków pisma drukarskiego</p>
+<p id="gruby_Szulist">Szulist-ZASILACZ – urządzenie służące do dopasowania dostępnego napięcia do wymagań zasilanego urządzenia.</p>
+<h1 id="dlawszystkich_Szulist">KLAWIATURA – uporządkowany zestaw klawiszy służący do ręcznego sterowania urządzeniem lub ręcznego wprowadzania danych.</h1>
+<h1 id="dlawszystkich_Szulist">MYSZ – urządzenie wskazujące używane podczas pracy z interfejsem graficznym komputera.</h1>
+<h1 id="dlawszystkich_Szulist">OPROGRAMOWANIE – ogół informacji w postaci zestawu instrukcji, 
+zaimplementowanych interfejsów i zintegrowanych danych przeznaczonych dla komputera do realizacji wyznaczonych celów.</h1>
+<h1 id="dlawszystkich_Szulist">MIKROFON – przetwornik elektroakustyczny służący do przetwarzania fal dźwiękowych na zmienny prąd elektryczny.</h1>
+<div id="dlawszystkich_Szulist">DYSK SSD – rodzaj pamięci masowej zbudowanej w oparciu o pamięć typu flash </p>
+<div id="dlawszystkich_Szulist">DYSK HYBRYDOWY – dysk komputerowy będący dyskiem twardym, 
+w którego obudowie umieszczono moduł pamięci flash typu SLC NAND</p>
+<div id="dlawszystkich_Szulist">PŁYTA GŁÓWNA – obwód drukowany urządzenia elektronicznego, 
+na którym montuje się najważniejsze elementy, 
+umożliwiając komunikację wszystkim pozostałym komponentom i modułom.</p>
+<div id="dlawszystkich_Szulist">KARTA GRAFICZNA – karta rozszerzeń komputera odpowiedzialna za renderowanie grafiki i jej konwersję na sygnał zrozumiały dla wyświetlacza.</p>
+</body>
+</html>
+<!11.05.2022_Szulist>

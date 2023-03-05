@@ -1,0 +1,23 @@
+/*!text-decoration none; - używa sie go po to aby usunąć dolną linie linku.
+text-decoration underline; - podkreśla dany tekst.*/
+A
+{
+font-size: 18pt;
+text-decoration: none;
+}
+
+A:link
+{
+color: blue;
+}
+
+A:visited
+{
+color: green;
+}
+
+A:hover
+{
+color: red;
+text-decoration: underline;
+}

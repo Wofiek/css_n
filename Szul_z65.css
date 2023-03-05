@@ -1,0 +1,52 @@
+p
+{
+font-size: 11pt;
+}
+
+p:first-child
+{
+font-size: 7mm;
+font-style: italic;
+}
+
+body
+{
+background-color: #808080;
+}
+
+div#pierwszy_szulist
+{
+width: 800pt ;
+margin-left: auto;
+margin-right: auto;
+border-top-right-radius: 15px;
+border-top-right-radius: 15px;
+border-bottom-left-radius: 15px;
+border-bottom-right-radius: 15px;
+background-color: lightgreen;
+border: black solid 3px;
+}
+
+div#drugi_szulist
+{
+width: 1000pt ;
+margin-left: auto;
+margin-right: auto;
+background-color: lightblue;
+border-top-right-radius: 14px;
+border-top-right-radius: 14px;
+border-bottom-left-radius: 14px;
+border-bottom-right-radius: 14px;
+border: darkblue solid 5px;
+}
+
+div#trzeci_szulist
+{
+width: 1200pt ;
+background-color: pink;
+border-top-right-radius: 16px;
+border-top-right-radius: 16px;
+border-bottom-left-radius: 16px;
+border-bottom-right-radius: 16px;
+border: purple solid 7px;
+}
